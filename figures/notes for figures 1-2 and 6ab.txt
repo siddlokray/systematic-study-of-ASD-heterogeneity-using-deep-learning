@@ -1,0 +1,15 @@
+notes for figures 1-2 and 6ab
+
+figure 1
+a) drawn
+b) data from best observed results
+c) data from table s2
+
+figure 2
+a) data from subject 29236
+b) data from subject 28921
+c) data from subject 29291
+d) data from subject 29192
+
+figure 6ab
+a) data from table s3 assigned with respective networks
